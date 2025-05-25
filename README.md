@@ -61,9 +61,3 @@
 
 ---
 
-### 🕶️ Background Styling Tip
-
-To make this README *really* pop, use a browser extension like **Dark Reader**, or view it on GitHub’s **dark mode**.
-
----
-
