@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center" style="color:#00F7FF;"> I'm MoeApps</h1>
-<h3 align="center" style="color:#FFFFFF;">Senior AI Student · Software Engineer</h3>
+<h3 align="center" style="color:#FFFFFF;">Senior AI Student · Machine Learning Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moeapps&label=Profile%20views&color=blueviolet&style=flat-square" alt="moeapps" />
